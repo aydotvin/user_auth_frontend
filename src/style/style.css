@@ -1,0 +1,77 @@
+body #root {
+	height: 100vh;
+	width: 100vw;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.height-fit-content {
+	height: fit-content;
+}
+.width-fit-content {
+	width: fit-content;
+}
+.flex-c {
+	display: flex;
+	flex-direction: column;
+}
+.flex-r {
+	display: flex;
+	flex-direction: row;
+}
+.vertically-centered {
+	align-items: center;
+}
+.horizontally-centered {
+	justify-content: center;
+}
+.fully-centered {
+	align-items: center;
+	justify-content: center;
+}
+.w-25vw {
+	width: 25vw;
+}
+.w-50vw {
+	width: 50vw;
+}
+.w-75vw {
+	width: 75vw;
+}
+.w-100vw {
+	width: 100vw;
+}
+.w-25p {
+	width: 25%;
+}
+.w-50p {
+	width: 50%;
+}
+.w-75p {
+	width: 75%;
+}
+.w-100p {
+	width: 100%;
+}
+.h-25p {
+	height: 25%;
+}
+.h-50p {
+	height: 50%;
+}
+.h-75p {
+	height: 75%;
+}
+.h-100p {
+	height: 100%;
+}
+.overflow-wrap {
+	overflow-wrap: break-word;
+}
+
+.border-test {
+	border: 5px solid orange;
+}
+span.error {
+	color: red;
+}
