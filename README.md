@@ -1,4 +1,4 @@
-# Frontend for user authentication.
+# React frontend for user authentication.
 Server for user authentication. **Using React &amp; Bootstrap for styling**
 
 Steps:
